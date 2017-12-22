@@ -10,6 +10,9 @@ https://www.linkedin.com/pulse/scala-way-out-owen-rubel
 ### Idiomatic syntax for Option when the meaningful value is None
 https://stackoverflow.com/questions/18016630/idiomatic-syntax-for-option-when-the-meaningful-value-is-none
 
+### Using Scala Will Make You Less Productive
+https://grundlefleck.github.io/2013/06/23/using-scala-will-make-you-less-productive.html
+
 ### Why is the Scala compiler so slow? Is there something fundamentally different about the way Scala is compiled that makes it slow, or do other compilers just give more attention to speed?
 https://www.quora.com/Why-is-the-Scala-compiler-so-slow-Is-there-something-fundamentally-different-about-the-way-Scala-is-compiled-that-makes-it-slow-or-do-other-compilers-just-give-more-attention-to-speed
 
